@@ -1,0 +1,9 @@
+.parent_title {
+  border: 2px solid black;
+  border-radius: 30px;
+  box-shadow: 0 0 20px 0 red;
+  font-weight: 900;
+  background: #3f3333;
+  color: white;
+
+}

@@ -1,0 +1,55 @@
+.price-block {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+  font-weight: 900;
+}
+
+.price-block img {
+  width: 100%;
+  max-width: 50px;
+  height: 100%;
+}
+
+.minus_button {
+  width: 20px;
+  height: 20px;
+  background: red;
+  color: white;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 0 purple;
+}
+
+.plus_button {
+  width: 20px;
+  height: 20px;
+  background: red;
+  color: white;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 0 purple;
+  
+}
+
+.count {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.cancellation_button {
+  background: #600505;
+  color: white;
+  border-radius: 20px;
+}
+
+.result-panel {
+  border: 2px solid black;
+  border-radius: 30px;
+  background: #3f3333;
+  font-weight: 900;
+  font-size: 30px;
+  color: white;
+  box-shadow: 0 0 20px 0 red;
+
+}
+
